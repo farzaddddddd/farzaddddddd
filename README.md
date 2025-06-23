@@ -1,4 +1,4 @@
-# This is Farzad Zarasvand
+# Farzad Zarasvand
 
 ## About
 
