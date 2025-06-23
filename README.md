@@ -1,5 +1,10 @@
+# Hi! My name is Farzad Zarasvand
+
 ## Hi there 👋
 
+## My Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,php,mysql,postgres,mongodb,redis,ansible,terraform,git,gitlab,react,nginx" />
 <!--
 **farzaddddddd/farzaddddddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
